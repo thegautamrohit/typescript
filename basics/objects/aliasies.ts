@@ -7,3 +7,5 @@ type User = {
 function createUser(user: User): User {
   return { name: "Rohit", email: "r@g.com", isActive: true };
 }
+
+export {}
